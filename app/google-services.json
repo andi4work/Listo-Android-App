@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "870762166496",
+    "firebase_url": "https://listo-fb089.firebaseio.com",
+    "project_id": "listo-fb089",
+    "storage_bucket": "listo-fb089.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870762166496:android:26832f9a9284e123",
+        "android_client_info": {
+          "package_name": "com.listoit.location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870762166496-1btudsbtmrmmv17q4g7au1bjmmu8el7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBobGlnTAoQfUaQw-fTbZBS-RT06gUWFj8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

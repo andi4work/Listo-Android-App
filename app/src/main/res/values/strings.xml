@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">Local Guide</string>
+    <string name="hint_save">SAVE</string>
+
+    //ads -TESTING
+    <string name="BANNER_AD_UNIT_ID">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="FULL_SCREEN_AD_UNIT_ID">ca-app-pub-3940256099942544/1033173712</string>
+
+    //ads -PRODUCTION
+
+
+    <string name="action_logout">Logout</string>
+    <string name="hint_user_name">  User name</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_phone_number">Phone number</string>
+    <string name="hint_date_picker">Date of birth</string>
+    <string name="hint_promo_code">Promo code</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_login">LOGIN</string>
+    <string name="hint_register">REGISTER</string>
+    <string name="hint_forget_password">Forget password?</string>
+    <string name="hint_new_to_listo">New to Listo?</string>
+    <string name="hint_get_password">Get password</string>
+    <string name="hint_back_to_login">Back to Login</string>
+    <string name="hint_address">Address</string>
+    <string name="hint_emergency_contact">Emergency Contact Number</string>
+    //INTRO SCREEN STRINGS
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    //DRAWER
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="description">We are team of entrepreneurs who have vast experience of more than 20 years in IT industry, with countless successful projects with varied technology exposure / experiences.\nThe team has provided excellent solutions always ahead of time and has taken the user experience to different next levels.</string>
+    <string name="help_title_emergency">HELP</string>
+    <string name="help_des_emergency">Need Immediate help</string>
+    <string name="alert">Alert</string>
+    <string name="medical_title_emergency">MEDICAL</string>
+    <string name="medical_des_emergency">Need Medical help</string>
+    <string name="police_emergency">Police</string>
+    <string name="family_emergency">Family</string>
+    <string name="family_friend_emergency">Family Friend</string>
+    <string name="ambulance_emergency">Ambulance</string>
+    <string name="emergency_footer">EMERGENCY</string>
+    <string name="eaten_footer">EATEN</string>
+    <string name="commute_footer">COMMUTE</string>
+    <string name="field_resource_tracker_footer">FRT</string>
+    <string name="cargo_footer">CARGO</string>
+    <string name="gated_comm_footer">GATED COMM</string>
+    <string name="loading_contacts">Loading contacts for the 1st time\n It will take lessthan 1 minute time</string>
+    <string name="sample_text">SAMPLE</string>
+    <string name="people_header">people</string>
+    <string name="professional_header">professional</string>
+    <string name="service_header">service</string>
+    <string name="property_header">property</string>
+    <string name="business_header">business</string>
+    <string name="user_name_contact">User name</string>
+    <string name="title_name">Listo user</string>
+    <string name="grid_item_title">Chandu</string>
+    <string name="distance">5 Kms</string>
+    <string name="title_company">Listo IT Solotions Pvt Ltd</string>
+    <string name="date_blocked">Date Blocked</string>
+    <string name="details_title">Details</string>
+    <string name="description_title">Description</string>
+    <string name="expiry_date">Offer Expries on : 16/03/2017</string>
+    <string name="about_quote">Pay subscription few to Listo IT Solutions Pvt Ltd</string>
+    <string name="date_and_time">16/03/2017 15:07:16</string>
+    <string name="date_saved">Saved on</string>
+    <string name="validity_ends_on">Validity ends on</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="points">Points</string>
+    <string name="amount">Amount</string>
+    <string name="menu_counter">12</string>
+    <string name="change_password">Change Password</string>
+    <string name="current_password">current password</string>
+    <string name="new_password">new password</string>
+    <string name="confirm_new_password">confirm new password</string>
+    <string name="verify_email">Verify Email</string>
+    <string name="notifications">Notifications</string>
+    <string name="offers_and_promotions">Offers and Promotions</string>
+    <string name="nearby_friends">Nearby Friends</string>
+    <string name="meeting_schudles">Meeting Schudles</string>
+    <string name="public_chat">Public Chat</string>
+    <string name="public_meetup">Public Meetup</string>
+    <string name="amount_">Rs.0/-</string>
+    <string name="pay">Pay</string>
+    <string name="benefits">BENEFITS</string>
+    <string name="mobile_number">mobile number</string>
+    <string name="rating">Rating :</string>
+    <string name="address_title">Address :</string>
+    <string name="address">H.No.32, 1st Main, Green Park Layout, Dooda Banasawadi,Bangalore 560043</string>
+    <string name="distance_title">Distance :</string>
+    <string name="distance_in_kms">4.2 Kms</string>
+    <string name="greetings_of_the_day">Greetings</string>
+    <string name="version">v 1.0</string>
+    <string name="name_title">Name</string>
+    <string name="date_">23/03/2017</string>
+    <string name="start_">START</string>
+    <string name="visit">VISIT</string>
+    <string name="report">REPORT</string>
+    <string name="home">HOME</string>
+</resources>
